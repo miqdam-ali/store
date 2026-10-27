@@ -36,11 +36,6 @@ This project was built as a functional prototype. Please note these security iss
 ### Setup & Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com
-   cd vauxin-ecommerce
-   ```
-
 2. **Install the dependencies:**
    ```bash
    npm install
