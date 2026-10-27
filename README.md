@@ -1,4 +1,4 @@
- Vauxin E-Commerce
+ MSM E-Commerce Platform
 
 A full-stack e-commerce platform built with Next.js and Supabase. Developed 6 months ago, this project provides capability of handling up to 5,000 products, automated media fetching, stock tracking, and a direct checkout flow via WhatsApp.
 
